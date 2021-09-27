@@ -1,1 +1,1 @@
-# articel-preview
+# article-preview
